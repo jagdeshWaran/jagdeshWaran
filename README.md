@@ -1,5 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jagadeesh
-=================================================================================================================================
+==============================================================================================================================
+
 Welcome to my GitHub profile! I'm a Software Engineer passionate about developing API's and Libraries.
 
 ## About Me
@@ -11,8 +12,18 @@ Welcome to my GitHub profile! I'm a Software Engineer passionate about developin
 - 😄 Pronouns: He/Him
 
 ## Get in Touch
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jagadeesh-waran-301ab6248/)
- [![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=flat-square&logo=gmail&logoColor=white)](jagadeeshwaranofficial@gmail.com).
+<p align="left">
+  <a href="https://www.linkedin.com/in/jagadeesh-waran-301ab6248/">
+    <img src="https://skillicons.dev/icons?i=linkedin" style="width: 48px; height: 48px;" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:jagadeeshwaranofficial@gmail.com">
+    <img src="https://raw.githubusercontent.com/github/explore/8f19e4dbbf13418dc1b1d58bb265953553c15a46/topics/gmail/gmail.png" style="width: 48px; height: 48px;" />
+</p>
+
+
+
+
+
 
 ## My Skills
 <p align="left">
