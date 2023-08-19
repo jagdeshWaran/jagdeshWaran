@@ -11,13 +11,15 @@ Welcome to my GitHub profile! I'm a Software Engineer passionate about developin
 - 😄 Pronouns: He/Him
 
 ## Get in Touch
-
-- LinkedIn: [https://www.linkedin.com/in/jagadeesh-waran-301ab6248/](https://www.linkedin.com/in/jagadeesh-waran-301ab6248/)
-- Email: [jagadeeshwaranofficial@gmial.com](jagadeeshwaranofficial@gmial.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jagadeesh-waran-301ab6248/)
+ [![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=flat-square&logo=gmail&logoColor=white)](jagadeeshwaranofficial@gmail.com).
 
 ## My Skills
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,c,maven,git,idea,postman,hibernate,angular,linux" />
+  </a>
+</p>
 
-- Programming Languages: C, Java, Python, SQL.
-- Frameworks: SpringBoot, Angular, Hibernate. 
-- Tools: Intellij
-  
+
+
