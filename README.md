@@ -1,5 +1,5 @@
-# Hello, I'm Jagadeesh Waran 👋
-
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jagadeesh
+=================================================================================================================================
 Welcome to my GitHub profile! I'm a Software Engineer passionate about developing API's and Libraries.
 
 ## About Me
@@ -9,8 +9,7 @@ Welcome to my GitHub profile! I'm a Software Engineer passionate about developin
 - 👯 I’m looking to collaborate on Java Backend Development
 - 💬 Ask me about Java, API
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm a coffee enthusiast ☕, and I firmly believe that code and caffeine are the perfect blend for productive coding sessions!
-- 
+
 ## Get in Touch
 
 - LinkedIn: [https://www.linkedin.com/in/jagadeesh-waran-301ab6248/](https://www.linkedin.com/in/jagadeesh-waran-301ab6248/)
